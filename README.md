@@ -178,8 +178,4 @@ The skills might not be in the right folder. Check that `~/.claude/skills/new-pr
 **I don't see the `.claude` folder**
 It's a hidden folder. On Mac press `Command + Shift + .` in Finder to show hidden files.
 
----
 
-## Questions?
-
-If you get stuck, send a message and we'll help you out!
